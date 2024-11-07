@@ -22,6 +22,7 @@ Arch Linux:
  ```curl https://gitlab.com/winemusiccreation/all-in-one-setup-script/-/raw/main/Scripts/ArchLinux.sh --output ~/ArchLinux.sh && chmod +x ~/ArchLinux.sh && bash ~/ArchLinux.sh```
 
 #Conclusion:
+
 Some DAWs that are in this organization might require special configurating to get it jsut right. 
 For example, Ableton Live 12 doens't show the ribbon that contains the "File" and "Options" button, but it can be fixed by pressing F11.
 Ones like FLStudio seem to work pretty well already out of the box. Just the "Sound" panel is black for some reason when I go to it. 
