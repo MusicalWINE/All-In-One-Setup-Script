@@ -16,7 +16,10 @@ If you're just looking for this, well, that's okay.
 
 Instructions:
 Make sure you curl the right script for your distrobution!
-Arch Linux: ```curl https://gitlab.com/winemusiccreation/all-in-one-setup-script/-/raw/main/Scripts/ArchLinux.sh --output ~/ArchLinux.sh && chmod +x ~/ArchLinux.sh && bash ~/ArchLinux.sh```
+
+Arch Linux:
+
+ ```curl https://gitlab.com/winemusiccreation/all-in-one-setup-script/-/raw/main/Scripts/ArchLinux.sh --output ~/ArchLinux.sh && chmod +x ~/ArchLinux.sh && bash ~/ArchLinux.sh```
 
 #Conclusion:
 Some DAWs that are in this organization might require special configurating to get it jsut right. 
